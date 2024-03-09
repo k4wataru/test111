@@ -22,5 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-清水が作業しました！
+川野も作業しました！！
